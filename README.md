@@ -201,6 +201,7 @@ Originally published as
 * [Bookmark](https://www.bookmark.com/) - Create a Website with AI
 * [Strikingly](https://www.strikingly.com/) - Make a website in minutes
 * [Tilda](https://tilda.cc/) - Create beautiful websites without any code
+* [Playcode](https://playcode.io/ai-website-builder) - Describe your site in plain English and AI builds it, with hosting, custom domains, and a database included.
 
 ### Websites, Membership
 * [Memberspace](https://www.memberspace.com/) - Turn your audience into paying members.
